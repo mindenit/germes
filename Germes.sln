@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Germes.Api", "Germes.Api\Germes.Api.csproj", "{A84BD1E5-EEC4-4A84-BF2F-C98F1E2B2148}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Germes.NureNET", "Germes.NureNET\Germes.NureNET.csproj", "{0C0D8034-EADF-40CA-A9A1-E75B71619E62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Germes.DataAssistant", "Germes.DataAssistant\Germes.DataAssistant.csproj", "{50C3F9B7-8FD7-488D-8D40-5082DFF77683}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B0DD071-60B8-4E9E-98C1-8A7009E30A2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B0DD071-60B8-4E9E-98C1-8A7009E30A2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B0DD071-60B8-4E9E-98C1-8A7009E30A2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B0DD071-60B8-4E9E-98C1-8A7009E30A2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00F7A892-B75C-412B-8BBA-5B699404C897}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00F7A892-B75C-412B-8BBA-5B699404C897}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00F7A892-B75C-412B-8BBA-5B699404C897}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00F7A892-B75C-412B-8BBA-5B699404C897}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A84BD1E5-EEC4-4A84-BF2F-C98F1E2B2148}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A84BD1E5-EEC4-4A84-BF2F-C98F1E2B2148}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A84BD1E5-EEC4-4A84-BF2F-C98F1E2B2148}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A84BD1E5-EEC4-4A84-BF2F-C98F1E2B2148}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C0D8034-EADF-40CA-A9A1-E75B71619E62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C0D8034-EADF-40CA-A9A1-E75B71619E62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C0D8034-EADF-40CA-A9A1-E75B71619E62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C0D8034-EADF-40CA-A9A1-E75B71619E62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50C3F9B7-8FD7-488D-8D40-5082DFF77683}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50C3F9B7-8FD7-488D-8D40-5082DFF77683}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50C3F9B7-8FD7-488D-8D40-5082DFF77683}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50C3F9B7-8FD7-488D-8D40-5082DFF77683}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
